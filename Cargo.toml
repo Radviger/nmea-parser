@@ -1,0 +1,8 @@
+[package]
+name = "nmea_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nmea-parser = "0.10.0"
+serialport5 = "5.0.2"
